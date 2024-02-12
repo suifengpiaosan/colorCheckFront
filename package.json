@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@element-plus/icons-vue": "^1.1.4",
+    "@vue/reactivity": "^3.3.4",
+    "@vue/shared": "latest",
+    "axios": "^1.5.0",
+    "element-plus": "^2.3.12",
+    "vue-color": "^2.8.1",
+    "vue3-colorpicker": "^2.2.2"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.198",
+    "less": "^4.2.0",
+    "sass": "^1.66.1"
+  }
+}
